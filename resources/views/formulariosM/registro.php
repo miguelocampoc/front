@@ -100,8 +100,8 @@
            </div>
         <div class="col-md-4">
          <label for="sel1">Contactos</label>
-         <input type="number" placeholder="celular"   class="form-control"  name="direccion" required>
-         <input type="number" placeholder="telefono(opcional)"   class="form-control"  name="direccion" required>
+         <input type="tel" placeholder="celular"   class="form-control"  name="direccion" required>
+         <input type="tel" placeholder="telefono(opcional)"   class="form-control"  name="direccion" required>
          </div>
         <div class="col-md-4">
           <label for="sel1">email</label>
