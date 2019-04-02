@@ -50,16 +50,9 @@
           </div>
          </div>
          <div class="col-md-4">
-         <div class="form-group">
-         <label for="sel1">Departamento</label>
-         <select class="form-control" id="sel1">
-         <option>1</option>
-         <option>2</option>
-         <option>3</option>
-         <option>4</option>
-         </select>
-         </div>
-         </div>
+            <label for="sel1">Departamento</label>
+            <input type="email" placeholder="Primer Apellido"   class="form-control"   name="identificacion" required>
+           </div>
         </div>
             <br/>
         <div class="row">
