@@ -44,7 +44,7 @@
           <label for="sel1">Sexo</label>
           <div class="radio">
            <label><input type="radio" name="optradio" checked>Maculino</label>
-          </div>
+          </div>   
           <div class="radio">
            <label><input type="radio" name="optradio">Femenino</label>
           </div>
